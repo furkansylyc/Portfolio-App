@@ -26,7 +26,7 @@ Bu proje, Jetpack Compose ile geliştirilmiş kişisel bir portfolyo uygulaması
 
 ## Screenshots (Ekran Görüntüleri)
 
-*(Uygulamanızın birkaç ekran görüntüsünü buraya ekleyebilirsiniz.)*
+
 
 ## 💡 Olası Geliştirmeler
 
