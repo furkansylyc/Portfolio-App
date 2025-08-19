@@ -26,7 +26,11 @@ Bu proje, Jetpack Compose ile geliştirilmiş kişisel bir portfolyo uygulaması
 
 ## Screenshots (Ekran Görüntüleri)
 
-
+<div align="center">
+  <img src="images/photo1.jpg" width="300">
+  <img src="images/photo2.jpg" width="300">
+  <img src="images/photo3.jpg" width="300">
+</div>
 
 ## 💡 Olası Geliştirmeler
 
