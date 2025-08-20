@@ -1,30 +1,22 @@
-# Portfolio Uygulaması
+# Portfolio App
 
-Bu proje, Jetpack Compose ile geliştirilmiş kişisel bir portfolyo uygulamasıdır. Geliştiricinin kişisel bilgilerini, profil resmini ve tamamladığı projeleri modern bir kullanıcı arayüzü ile sunar.
+This project is a personal portfolio application developed with Jetpack Compose. It presents the developer's personal information, profile picture, and completed projects with a modern user interface.
 
-## ✨ Temel Özellikler
+## ✨ Key Features
 
-*   **Kişisel Bilgiler:** Kullanıcının adı, ünvanı ve sosyal medya bilgileri gibi temel bilgileri gösterir.
-*   **Profil Resmi:** Dairesel ve kenarlıklı bir tasarımda profil resmini sergiler.
-*   **Proje Listesi:** Geliştiricinin projelerini isimleri ve kısa açıklamalarıyla birlikte listeler.
-*   **Etkileşimli Proje Alanı:** Bir buton aracılığıyla proje listesinin görünürlüğü açılıp kapatılabilir.
-*   **Modern UI:** Tamamen Jetpack Compose ile oluşturulmuş, Material Design prensiplerine uygun bir arayüz.
+*   **Personal Information: Displays basic information such as the user's name, title, and social media details.
+*   **Profile Picture: Shows the profile picture with a circular and bordered design.
+*   **Project List: Lists the developer's projects along with their names and short descriptions.
+*   **Interactive Project Section: The visibility of the project list can be toggled via a button.
+*   **Modern UI: A user interface fully created with Jetpack Compose, following Material Design principles.
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
-*   **Kotlin:** Ana programlama dili.
-*   **Jetpack Compose:** Deklaratif UI geliştirme kiti.
-*   **Material 3:** Compose için Material Design bileşenleri.
-*   **Android Studio:** Geliştirme ortamı.
+*   **Kotlin:** Main programming language.
+*   **Jetpack Compose:** UI development kit.
+*   **Material 3:** Material Design components for Compose.
 
-## 🚀 Kurulum ve Çalıştırma
-
-1.  Bu projeyi klonlayın veya indirin.
-2.  Android Studio'da projeyi açın.
-3.  Gradle senkronizasyonunun tamamlanmasını bekleyin.
-4.  Uygulamayı bir Android emülatöründe veya fiziksel bir cihazda çalıştırın.
-
-## Screenshots (Ekran Görüntüleri)
+## Screenshots
 
 <div align="center">
   <img src="images/photo1.jpg" width="300">
@@ -32,11 +24,5 @@ Bu proje, Jetpack Compose ile geliştirilmiş kişisel bir portfolyo uygulaması
   <img src="images/photo3.jpg" width="300">
 </div>
 
-## 💡 Olası Geliştirmeler
 
-*   Her proje için detaylı bir sayfa/dialog eklenmesi.
-*   Animasyonlar ve geçiş efektleri ile kullanıcı deneyiminin zenginleştirilmesi.
-*   Koyu tema / Açık tema desteği.
-*   Verilerin lokal bir veritabanından veya uzak bir sunucudan çekilmesi.
 
----
